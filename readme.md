@@ -74,7 +74,7 @@
 
 ## 🤝 Contributions
 
-Contributions welcome! Feel free to [open an issue](https://github.com/dakotamin/awesome-producthunt-alternatives/issues) or submit a [pull request](https://github.com/dakotamin/awesome-producthunt-alternatives/pulls).
+Contributions welcome! Feel free to [open an issue](https://github.com/DirectorySurf/awesome-producthunt-alternatives/issues) or submit a [pull request](https://github.com/DirectorySurf/awesome-producthunt-alternatives/pulls).
 
 ---
 
