@@ -13,6 +13,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [RankInPublic](https://rankinpublic.xyz/) – Launch your SaaS in weekly tournaments with 1v1 matchups and community votes.
 
 ---
 
