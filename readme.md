@@ -13,6 +13,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [Launched](https://launched.deskio.org) – Merit-based product discovery platform for indie makers. No algorithm, no paid placement, 30-second submission. Free forever.
 
 ---
 
