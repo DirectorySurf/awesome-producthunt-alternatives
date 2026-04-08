@@ -69,6 +69,8 @@
 * [LaunchCaster](https://launchcaster.xyz/) – Decentralized product launches.
 * [Carrd](https://carrd.co/) – Create quick launch pages.
 * [Substack](https://substack.com/) – Email-driven product announcements.
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) – AI-powered outbound engine. Source 450M+ contacts, run email + LinkedIn campaigns from the terminal. JSON output. `npm i -g overloop-cli`
+* [Signals CLI](https://github.com/sortlist/signals-cli) – Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding rounds. JSON output. `npm i -g signals-sortlist-cli`
 
 ---
 
