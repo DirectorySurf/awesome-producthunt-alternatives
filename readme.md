@@ -13,6 +13,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [AICavo](https://aicavo.com/) – Global AI & SaaS tools directory, similar to Product Hunt, offering verified listings, deal opportunities, and long-term visibility.
 
 ---
 
