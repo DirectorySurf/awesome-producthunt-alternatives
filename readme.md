@@ -13,6 +13,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [Product Watch](https://productwatch.io/) - Your Daily Feed of New Tech Products & Startups.
 
 ---
 
