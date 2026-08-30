@@ -69,6 +69,7 @@
 * [LaunchCaster](https://launchcaster.xyz/) – Decentralized product launches.
 * [Carrd](https://carrd.co/) – Create quick launch pages.
 * [Substack](https://substack.com/) – Email-driven product announcements.
+* [Dispatcher](https://getdispatcher.dev) – Command center for agent-driven development: run coding agents in parallel, review diffs, and ship PRs.
 
 ---
 
