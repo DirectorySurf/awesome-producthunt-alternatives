@@ -14,6 +14,7 @@
 * [Altern](https://altern.ai/) – AI tools directory offering free submissions, curated lists, and professional profiles for AI products.
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
+* [SaaSCity](https://saascity.io) – Gamified SaaS and AI directory; every listing becomes a building on an isometric city map.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
 
 ---
