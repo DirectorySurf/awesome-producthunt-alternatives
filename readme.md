@@ -9,6 +9,7 @@
 * [BuildBoard](https://altern.ai/buildboard) - Launch Anything
 * [Crypto Tools Directory](https://cryptoToolsDirectory.com/) – Share your Crypto Tools and Product with a crypto community.
 * [BetaList](https://betalist.com/) – Launch your startup early and get early adopters.
+* [Go-Publicly](https://go-publicly.com) - Stop Building in Silence
 * [Indie Hackers](https://www.indiehackers.com/products) – Share your product with a community of indie founders.
 * [Hacker News](https://news.ycombinator.com/show) – Submit with “Show HN” for developer-focused visibility.
 * [Altern](https://altern.ai/) – AI tools directory offering free submissions, curated lists, and professional profiles for AI products.
