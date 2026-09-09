@@ -12,6 +12,7 @@
 * [Indie Hackers](https://www.indiehackers.com/products) – Share your product with a community of indie founders.
 * [Hacker News](https://news.ycombinator.com/show) – Submit with “Show HN” for developer-focused visibility.
 * [Altern](https://altern.ai/) – AI tools directory offering free submissions, curated lists, and professional profiles for AI products.
+* [Nick Launches](https://nicklaunches.com/) – Launch platform for makers to showcase a new product, reach other builders, and earn a backlink.
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
