@@ -65,6 +65,10 @@
   * [There's An AI For That](https://theresanai.com/)
   * [Futurepedia](https://www.futurepedia.io/)
 
+* **macOS Apps**
+
+  * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
+
 ---
 
 ## 🪰 Tools to Run Your Own Launch
