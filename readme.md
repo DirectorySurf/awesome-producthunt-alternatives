@@ -59,6 +59,7 @@
 
   * [GitHub Trending](https://github.com/trending)
   * [Awesome Lists](https://awesome.re/)
+  * [LibHunt](https://ideabin.xyz/) – tracking mentions of GitHub repositories on Reddit etc.
 
 * **AI/ML Tools**
 
