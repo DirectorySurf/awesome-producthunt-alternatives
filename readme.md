@@ -59,6 +59,7 @@
 
   * [GitHub Trending](https://github.com/trending)
   * [Awesome Lists](https://awesome.re/)
+  * [Open Saas Directory](https://opensaas.directory) – Discover and explore curated open-source SaaS projects and self-hosted alternatives.
 
 * **AI/ML Tools**
 
