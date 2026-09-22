@@ -69,7 +69,7 @@
 * **macOS Apps**
 
   * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
-  * [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters, each tagged free or paid.
+  * [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters.
 
 ---
 
