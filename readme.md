@@ -16,6 +16,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [Directory Dash](https://directorydash.io/directory) – A launch directory where the submission form is a rage game about directory rejection. Reach a flag to be listed (nofollow); clear the level for a dofollow link. Free, no signup.
 
 ---
 
