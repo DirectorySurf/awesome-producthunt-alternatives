@@ -16,6 +16,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [ZeroRaised](https://zeroraised.com) - ZeroRaised is a free launch site for makers who took no institutional VC or accelerator equity.
 
 ---
 
