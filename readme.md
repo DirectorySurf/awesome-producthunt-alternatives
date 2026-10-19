@@ -16,6 +16,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [Builderoom](https://www.builderoom.com/) – Launch and discover software products of every kind, with built-in AI agents that speed up launching and discovery.
 
 ---
 
