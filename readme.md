@@ -16,6 +16,7 @@
 * [Lobsters](https://lobste.rs/) – Tech-focused news and product sharing (invite-only).
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [uNeed](https://uneed.best) – Discover and share AI tools and new products.
+* [RadarMakers](https://radarmakers.com) – Launchpad for indie makers where products are rated on idea, execution, design and value, not just launch-day upvotes.
 
 ---
 
