@@ -25,6 +25,7 @@
 * [Betapage](https://betapage.co/) – Daily startup listings.
 * [PeerPush](https://peerpush.net/) – Product discovery platform for indie makers.
 * [Nick Launches](https://nicklaunches.com/) – Showcase a new product, reach other builders, and earn a backlink.
+* [Launchator](https://launchator.com/) – Launch directory for SaaS, AI and indie products, MCP servers and agent skills. Free with a link back from your homepage; submit on the web or from Claude Code, Cursor or Codex through its MCP server.
 
 ---
 
