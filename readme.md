@@ -61,6 +61,7 @@
 
   * [Altern](https://altern.ai/) – AI tools directory offering free submissions, curated lists, and professional profiles for AI products.
   * [Futurepedia](https://www.futurepedia.io/) – Large directory of AI tools, updated daily.
+  * [RespawnStack](https://respawnstack.com/) – Sourced ledger of AI tools for game developers: pricing, commercial use, ownership, license caveats, and Steam disclosure.
   * [AI Directory](https://aidirectory.website/) – Free catalog of newly launched and standout AI tools.
   * [Submit AI Tools](https://submitaitools.org/) – Discover, compare, and list AI tools for free.
   * [Best of AI](https://bestofai.io/) – Directory of 1000+ handpicked AI tools, sorted by profession and category.
