@@ -25,6 +25,7 @@
 * [Betapage](https://betapage.co/) – Daily startup listings.
 * [PeerPush](https://peerpush.net/) – Product discovery platform for indie makers.
 * [Nick Launches](https://nicklaunches.com/) – Showcase a new product, reach other builders, and earn a backlink.
+* [DiscoverLaunches](https://discoverlaunches.com/) – Weekly launch board with permanent product pages and dofollow links for indie makers.
 
 ---
 
