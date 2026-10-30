@@ -51,6 +51,7 @@
 * [SaaSHub](https://www.saashub.com/) – Software discovery and alternatives, useful for long-term visibility.
 * [Side Projectors](https://www.sideprojectors.com/) – Showcase and even sell side projects.
 * [Startup Stash](https://startupstash.com/) – Tool directory and startup resources.
+* [ShowMeYourSaaS](https://showmeyoursaas.com/) – Reviewed software profiles, maker walkthroughs, and practical founder workflow collections.
 * [Startup Tools List](https://startuptoolslist.com) – Curated directory of startup tools across business modeling, validation, content creation, growth, and fundraising.
 
 ---
