@@ -16,6 +16,7 @@
 
 ## 🚀 Launch Platforms
 
+* [FoundrList](https://www.foundrlist.com) – Weekly launch cohorts for SaaS and AI tools, with a free launch option and a public leaderboard.
 * [BuildBoard](https://altern.ai/buildboard) – Launch anything.
 * [Semi Launch](https://semilaunch.com/) – Weekly launchpad where indie makers submit almost anything, from apps to unusual projects, and get votes and visibility.
 * [Peerlist Launchpad](https://peerlist.io/launchpad) – Weekly launches tied to your professional profile.
