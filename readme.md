@@ -50,6 +50,7 @@
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
 * [SaaSHub](https://www.saashub.com/) – Software discovery and alternatives, useful for long-term visibility.
 * [Side Projectors](https://www.sideprojectors.com/) – Showcase and even sell side projects.
+* [SitePatent](https://sitepatent.com/) – Startups, tools and online products by category and tech stack, with alternatives and compare pages.
 * [Startup Stash](https://startupstash.com/) – Tool directory and startup resources.
 * [Startup Tools List](https://startuptoolslist.com) – Curated directory of startup tools across business modeling, validation, content creation, growth, and fundraising.
 
