@@ -20,6 +20,7 @@
 * [Semi Launch](https://semilaunch.com/) – Weekly launchpad where indie makers submit almost anything, from apps to unusual projects, and get votes and visibility.
 * [Peerlist Launchpad](https://peerlist.io/launchpad) – Weekly launches tied to your professional profile.
 * [Uneed](https://uneed.best) – Daily launches and newsletter exposure for indie products.
+* [CazaProducto](https://cazaproducto.com) – Latin America's Product Hunt alternative, with daily launches and free backlinks.
 * [Fazier](https://fazier.com/) – Daily launch feed with badges and backlinks.
 * [MicroLaunch](https://microlaunch.net/) – Daily leaderboards and extended exposure for makers and startups.
 * [Betapage](https://betapage.co/) – Daily startup listings.
