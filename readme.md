@@ -71,6 +71,10 @@
   * [Dev Hunt](https://devhunt.org/) – Launchpad for developer tools with weekly competitions.
   * [Open Saas Directory](https://opensaas.directory) – Curated open-source SaaS projects and self-hosted alternatives.
 
+* **iOS Apps**
+
+  * [Indie Apps](https://indie-apps.com) – Free directory of iPhone, iPad and Mac apps made by independent developers, with no queue or link back required.
+
 * **macOS Apps**
 
   * [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
