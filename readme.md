@@ -52,6 +52,7 @@
 * [Side Projectors](https://www.sideprojectors.com/) – Showcase and even sell side projects.
 * [Startup Stash](https://startupstash.com/) – Tool directory and startup resources.
 * [Startup Tools List](https://startuptoolslist.com) – Curated directory of startup tools across business modeling, validation, content creation, growth, and fundraising.
+* [Project Radar](https://getprojectradar.com/) – Free directory of indie projects; ones that fit get a published Project Note.
 
 ---
 
