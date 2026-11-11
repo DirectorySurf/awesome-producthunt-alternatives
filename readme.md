@@ -48,6 +48,7 @@
 ## 📚 Software Directories
 
 * [AlternativeTo](https://alternativeto.net/) – List your product as an alternative to existing tools.
+* [RoboDebut](https://robodebut.com) – Website and startup directory where your coding agent submits the listing, reviewed by hand.
 * [SaaSHub](https://www.saashub.com/) – Software discovery and alternatives, useful for long-term visibility.
 * [Side Projectors](https://www.sideprojectors.com/) – Showcase and even sell side projects.
 * [Startup Stash](https://startupstash.com/) – Tool directory and startup resources.
