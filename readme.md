@@ -65,7 +65,8 @@
   * [Submit AI Tools](https://submitaitools.org/) – Discover, compare, and list AI tools for free.
   * [Best of AI](https://bestofai.io/) – Directory of 1000+ handpicked AI tools, sorted by profession and category.
   * [Launch Llama](https://launchllama.co/) – AI tools directory and launch platform paired with a founder newsletter.
-
+  * [AITrustList](https://aitrustlist.com) – AI tools directory ranked by verified traffic and growth — not paid placement.
+  * [AIHuntList](https://aihuntlist.com) – Navigation hub for 3,000+ AI apps across 200+ categories.
 * **Developer Tools & Open Source**
 
   * [Dev Hunt](https://devhunt.org/) – Launchpad for developer tools with weekly competitions.
