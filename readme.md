@@ -42,6 +42,7 @@
 * [Indie Hackers](https://www.indiehackers.com/products) – Share your product with a community of indie founders.
 * [Reddit](https://www.reddit.com/r/SideProject/) – Subreddits like r/SideProject, r/startups, and r/Entrepreneur.
 * [DEV Community](https://dev.to/) – Especially good for developer tools.
+* [daily.dev for Startups](https://daily.dev/startups/) – Gives a developer tool its own page on daily.dev and puts its posts in the feeds of developers who follow its topics.
 
 ---
 
