@@ -52,6 +52,7 @@
 * [Side Projectors](https://www.sideprojectors.com/) – Showcase and even sell side projects.
 * [Startup Stash](https://startupstash.com/) – Tool directory and startup resources.
 * [Startup Tools List](https://startuptoolslist.com) – Curated directory of startup tools across business modeling, validation, content creation, growth, and fundraising.
+* [TheSaaSDir](https://thesaasdir.com/) – SaaS and AI product directory; free listing in exchange for a badge, or a paid featured listing without one.
 
 ---
 
@@ -65,11 +66,13 @@
   * [Submit AI Tools](https://submitaitools.org/) – Discover, compare, and list AI tools for free.
   * [Best of AI](https://bestofai.io/) – Directory of 1000+ handpicked AI tools, sorted by profession and category.
   * [Launch Llama](https://launchllama.co/) – AI tools directory and launch platform paired with a founder newsletter.
+  * [TheAIToolsDir](https://theaitoolsdir.com/) – AI tools directory; free listing in exchange for a badge, or a paid featured listing without one.
 
 * **Developer Tools & Open Source**
 
   * [Dev Hunt](https://devhunt.org/) – Launchpad for developer tools with weekly competitions.
   * [Open Saas Directory](https://opensaas.directory) – Curated open-source SaaS projects and self-hosted alternatives.
+  * [TheDevToolsDir](https://thedevtoolsdir.com/) – Developer tools directory organised by category; free listing in exchange for a badge, or a paid featured listing without one.
 
 * **macOS Apps**
 
