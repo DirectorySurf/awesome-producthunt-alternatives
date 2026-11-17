@@ -25,6 +25,7 @@
 * [Betapage](https://betapage.co/) – Daily startup listings.
 * [PeerPush](https://peerpush.net/) – Product discovery platform for indie makers.
 * [Nick Launches](https://nicklaunches.com/) – Showcase a new product, reach other builders, and earn a backlink.
+* [Shipfolio](https://shipfolio.io) – Launch board for indie products, with each one's tech stack, ship log and revenue verified from Stripe, RevenueCat, the App Store or Google Play.
 
 ---
 
