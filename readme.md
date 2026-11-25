@@ -25,6 +25,7 @@
 * [Betapage](https://betapage.co/) – Daily startup listings.
 * [PeerPush](https://peerpush.net/) – Product discovery platform for indie makers.
 * [Nick Launches](https://nicklaunches.com/) – Showcase a new product, reach other builders, and earn a backlink.
+* [Resource.fyi](https://resource.fyi/) – Curated directory and free launch platform for apps, SaaS and software, with a weekly leaderboard.
 
 ---
 
