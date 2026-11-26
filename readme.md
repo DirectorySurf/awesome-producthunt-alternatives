@@ -33,6 +33,7 @@
 * [BetaList](https://betalist.com/) – Launch your startup early and get early adopters.
 * [Launching Next](https://www.launchingnext.com/) – Submit your startup for listing.
 * [StartupBase](https://startupbase.io/) – Share your startup and get discovered.
+* [TestMyBuild](https://testmybuild.app/) - Builders list an app and get first users and honest written feedback from real testers, paid in credits. A person on the team tests every app first.
 
 ---
 
